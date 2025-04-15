@@ -61,16 +61,6 @@ The pipeline is designed to leverage agentic workflows and provides the followin
 - **Graph Workflows for Patient-Trial Matching**: Improves transparency and ensures structured decision-making.
 - **Human-in-the-Loop for Validation**: Clinical experts are involved to provide oversight and make corrections where necessary.
 
-## Demonstration Video
-
-[Watch our demo videos on YouTube](https://www.youtube.com/playlist?list=PLMtE8Mev6Cct7n4NRsKVTgP8N5IzDSjbq) to see the application in action, including functionalities like:
-
-- Patient Profile (Re-)generation
-- Policy Evaluation
-- Human in-the-Loop Interventions
-- Hallucination Guardrails
-- Retrieval Grader
-
 ## How to Run
 
 ### Requirements
@@ -84,7 +74,7 @@ The pipeline is designed to leverage agentic workflows and provides the followin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/bab-git/llm-pharma.git
+   git clone git@github.com:snehsuresh/llm-clinical-trial-agent.git
    cd llm-pharma
    ```
 

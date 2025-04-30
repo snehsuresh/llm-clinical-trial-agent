@@ -75,7 +75,7 @@ The pipeline is designed to leverage agentic workflows and provides the followin
 
    ```bash
    git clone git@github.com:snehsuresh/llm-clinical-trial-agent.git
-   cd llm-pharma
+   cd llm-clinical-trial-agent
    ```
 
 2. Install dependencies using the provided `requirements.txt` file:
